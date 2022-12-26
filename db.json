@@ -1,0 +1,32 @@
+{
+  "eventos": [
+    {
+      "descricao": "Estudar React",
+      "inicio": "2022-11-15T09:00",
+      "fim": "2022-11-15T13:00",
+      "completo": false,
+      "id": 1642342747
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-11-16T09:00",
+      "fim": "2022-11-16T11:00",
+      "completo": false,
+      "id": 1642342959
+    },
+    {
+      "descricao": "Estudar Alura",
+      "inicio": "2022-11-17T09:00",
+      "fim": "2022-11-18T13:00",
+      "completo": false,
+      "id": 16423427562
+    },
+    {
+      "descricao": "Estudar TS",
+      "inicio": "2022-11-18T09:00",
+      "fim": "2022-11-20T11:00",
+      "completo": false,
+      "id": 164234298013
+    }
+  ]
+}
