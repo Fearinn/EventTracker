@@ -4,5 +4,5 @@ Project from the courses track [React com TypeScript](https://cursos.alura.com.b
 
 # 🎯 Goals
 
-- Learning and practcing state management with the library **Recoil**, while applying it to a given project which was built with Calendly;
+- Learning and practcing state management with the library **Recoil**, while applying it to a given project that was built with **Calendly**;
 - Improving the architecture of the given project.
